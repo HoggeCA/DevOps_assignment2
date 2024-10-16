@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3so9TX7/lmxkHP41BoNw/2Y2uGhRhRrUPwet6q67qkoiebXuFpYBcyksnnOt70AIwfOs57Ew2FuaMuMNlvRdZw==",
+  "success": true,
+  "projectFilePath": "C:\\Weltec\\DevOps\\Assignment 2\\App\\DevOps_Assignment_2\\DevOps_Assignment_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\campb\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}
